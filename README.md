@@ -2,6 +2,7 @@
 
 Plataforma ONPLAY construída com Next.js (App Router), React e TypeScript. Esta versão continua o projeto v9 existente e acrescenta rádios reais selecionáveis e clipes oficiais incorporados.
 
+Site ao vivo em breve.
 ## Recursos desta versão
 
 - Player de rádio ao vivo com controle de volume.
